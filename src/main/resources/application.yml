@@ -1,0 +1,6 @@
+
+application:
+  version: 1.0.0
+
+server:
+  port: 8090
